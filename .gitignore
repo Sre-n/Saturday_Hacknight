@@ -1,5 +1,5 @@
 dev/
 
 backend/dev_settings.py
-
+media/
 db.sqlite3
