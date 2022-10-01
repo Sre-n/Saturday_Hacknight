@@ -17,7 +17,7 @@ virtualenv dev
 source dev/bin/activate
 ```
 
-Note: dev is a vritual environment name. You can use any valid name as virutal environment name but always add that name in ```.gitignore```
+Note: ```dev``` is a vritual environment name. You can use any valid name as virutal environment name but always add that name in ```.gitignore```
 
 Install requirements
 
